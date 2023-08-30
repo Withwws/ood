@@ -1,0 +1,5 @@
+print("*** Rabbit & Turtle ***")
+d,Vr,Vt,Vf = input("Enter Input : ").split( )
+df= float(Vf)*(float(d)/(float(Vt)-float(Vr)))
+df = format(df, ".2f")
+print(df)

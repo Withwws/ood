@@ -1,0 +1,1 @@
+print("{0} {1}".format(L.search(i[3:]), i[3:]))
